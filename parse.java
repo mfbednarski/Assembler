@@ -1,6 +1,7 @@
 /*Author: Garrett Lonier
  * Date: 11/6/2017
  * References: The Elements of Computing Systems Chapter 6 Pg 113 -114
+ * Purpose: Encapsulates access to the input code. Reads an assembly language command, parses it, and provides convenient access to the command's components
  */
 import java.io.BufferedReader;
 import java.io.DataInputStream;
