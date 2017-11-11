@@ -2,6 +2,7 @@
 /**
  * @author Mike Bednarski
  * @purpose A symbol table that keeps a correspondence between symbolic labels and numeric addresses.
+ * @date November 11, 2017
  */
 import java.util.Hashtable;
 
