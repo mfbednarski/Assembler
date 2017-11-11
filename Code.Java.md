@@ -3,6 +3,7 @@
  * 
  * @author MikeBednarski
  * @purpose Translate Hack assembly language mnemonics into binary codes
+ *	@date: November 11,2017 
  */
 public class Code {
 
